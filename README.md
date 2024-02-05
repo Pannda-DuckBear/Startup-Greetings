@@ -28,4 +28,4 @@ So I started making a plan for a physical device to hook up to the computer that
 - The chime played at the start of the audio files was made by me in FLstudio, and the Japanese voices used were made on Narakeet.com, the voices used were Tomoka and Kaori.
 
 Thank you for checking out the project/idea and thank you for reading!
-I hope you enjoyed your stay with us :)
+I hope you enjoyed your stay :)
