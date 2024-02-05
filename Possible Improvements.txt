@@ -1,7 +1,3 @@
 
 * the thread sleeps for the length of the audio file
 * switches audio output to a speaker, plays the sound, then back to the original output
-
-
-ressha melody box
-NARAKEET
