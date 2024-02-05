@@ -24,9 +24,9 @@ If anything outstanding approaches I'll make sure to update the files.
 
 Where the project came from and what compelled me to make it:
 - I seen an advertisement for the Ressha Melody Box, a music box that plays a nice noise when starting your car. I really liked the idea of it but I do not have a car to use the device in, but I do have a computer I've always wanted to acknowledge me. 
-So I started making a plan for a physical device to hook up to the computer that would do the same thing; but I couldn't really think of how all components would work, so then I thought about making an application that could do the same task I wanted the box to do. 
-And now we are here. Thank you for checking out the project/idea and thank you for reading!
+So I started making a plan for a physical device to hook up to the computer that would do the same thing; but I couldn't really think of how all components would work, so then I thought about making an application that could do the same task I wanted the box to do.
 - The chime played at the start of the audio files was made by me in FLstudio, and the Japanese voices used were made on Narakeet.com, the voices used were Tomoka and Kaori.
 
-I hope you enjoyed your stay :)
+Thank you for checking out the project/idea and thank you for reading!
+I hope you enjoyed your stay with us :)
 Duck Bear / Pannda
