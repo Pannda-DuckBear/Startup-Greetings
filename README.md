@@ -29,4 +29,3 @@ So I started making a plan for a physical device to hook up to the computer that
 
 Thank you for checking out the project/idea and thank you for reading!
 I hope you enjoyed your stay with us :)
-Duck Bear / Pannda
